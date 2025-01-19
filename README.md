@@ -1,5 +1,10 @@
 # 🎨 Next.js Image Mask Drawer
 
+<p align='center'>
+<a href="https://easymask.surge.sh//" target="_parent"><img src='https://img.shields.io/badge/demo_link-demo-yellow' alt='license'></a>
+</p>
+
+
 A modern, performant, and touch-friendly image mask drawing tool built with Next.js and TypeScript. Create masks and annotations on images without using Canvas!
 
 ![Demo Preview](preview.gif)

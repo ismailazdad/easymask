@@ -193,7 +193,7 @@ const TouchMaskDrawer = () => {
         }
     };
 
-    const handleImageLoad = (e: React.SyntheticEvent<HTMLImageElement>) => {
+    const handleImageLoad = () => {
         if (imageRef.current && containerRef.current) {
             const { naturalWidth, naturalHeight } = imageRef.current;
             const aspectRatio = naturalWidth / naturalHeight;
