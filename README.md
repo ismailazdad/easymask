@@ -35,7 +35,7 @@ git clone https://github.com/yourusername/mask-drawer.git
 
 2. Install dependencies:
 ```bash
-cd mask-drawer
+cd easymask
 npm install
 ```
 
