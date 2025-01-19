@@ -1,7 +1,7 @@
 # 🎨 Next.js Image Mask Drawer
 
 <p align='center'>
-<a href="https://easymask.surge.sh//" target="_parent"><img src='https://img.shields.io/badge/demo_link-demo-yellow' alt='license'></a>
+<a href="https://easymask.surge.sh" target="_parent"><img src='https://img.shields.io/badge/demo_link-demo-yellow' alt='license'></a>
 </p>
 
 
