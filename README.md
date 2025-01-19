@@ -1,36 +1,102 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎨 Next.js Image Mask Drawer
 
-## Getting Started
+A modern, performant, and touch-friendly image mask drawing tool built with Next.js and TypeScript. Create masks and annotations on images without using Canvas!
 
-First, run the development server:
+![Demo Preview](preview.gif)
 
+## ✨ Key Features
+
+- 🚀 **No Canvas API** - Uses pure DOM elements for better performance and easier manipulation
+- 📱 **Touch Support** - Works seamlessly on mobile devices and tablets
+- 🎯 **Precise Controls** - Adjustable brush size and eraser tool
+- 💾 **Easy Export** - Export your masks as transparent PNG images
+- 🔄 **Responsive Design** - Adapts perfectly to any screen size
+- 🎮 **Intuitive UI** - Clean, minimal interface with icon-based controls
+
+## 🛠️ Built With
+
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- React Hooks
+- DOM Manipulation
+
+## 🚀 Getting Started
+
+1. Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/yourusername/mask-drawer.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
+```bash
+cd mask-drawer
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Run the development server:
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## Learn More
+## 💡 Why This Project?
 
-To learn more about Next.js, take a look at the following resources:
+- **Performance First**: By avoiding Canvas, we achieve better performance with large images
+- **Easy to Customize**: Simple DOM-based approach makes it easy to modify and extend
+- **Mobile-First**: Built with touch devices in mind from the ground up
+- **Modern Stack**: Uses the latest web technologies and best practices
+- **TypeScript**: Full type safety and better developer experience
+- **Zero Dependencies**: No external drawing libraries needed
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🌟 Use Cases
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Image Annotation Tools
+- Photo Editing Applications
+- Educational Software
+- Medical Image Analysis
+- Design Prototyping
+- Content Creation Tools
 
-## Deploy on Vercel
+## 🤝 Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Contributions are welcome! Feel free to:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 🐛 Report bugs
+- 💡 Suggest features
+- 🔧 Submit pull requests
+
+## 📝 License
+
+MIT License - feel free to use this in your projects!
+
+## 🙏 Support
+
+If you find this project useful, please consider:
+- ⭐ Starring the repository
+- 🔀 Forking it
+- 📢 Sharing it with others
+
+## 🔮 Future Plans
+
+- [ ] Multiple mask layers
+- [ ] Undo/Redo functionality
+- [ ] Custom brush shapes
+- [ ] Mask opacity control
+- [ ] Keyboard shortcuts
+- [ ] Save/Load masks
+- [ ] Color picker for masks
+
+---
+
+<!--
+### 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/mask-drawer&type=Date)](https://star-history.com/#yourusername/mask-drawer&Date)
+
+
+
+Built with ❤️ by [Your Name]
+
+-->
