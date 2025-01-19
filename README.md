@@ -96,6 +96,7 @@ If you find this project useful, please consider:
 - [ ] Keyboard shortcuts
 - [ ] Save/Load masks
 - [ ] Color picker for masks
+- [ ] handle segment everything format import
 
 ---
 
