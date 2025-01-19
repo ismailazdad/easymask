@@ -7,7 +7,7 @@
 
 A modern, performant, and touch-friendly image mask drawing tool built with Next.js and TypeScript. Create masks and annotations on images without using Canvas!
 
-![Demo Preview](preview.gif)
+![Demo Preview](preview.png)
 
 ## ✨ Key Features
 
