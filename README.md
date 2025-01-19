@@ -9,7 +9,7 @@ A modern, performant, and touch-friendly image mask drawing tool built with Next
 
 ![Demo Preview](preview.png)
 
-| Original                  | With Mask              | With Mask                             |
+| Original                  | Drawing mask           | Exported mask                         |
 |---------------------------|------------------------|---------------------------------------|
 | ![Original](original.png) | ![Mask](mask_draw.png) | ![Mask_generated](mask_generated.png) | 
 
