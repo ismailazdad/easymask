@@ -30,7 +30,7 @@ A modern, performant, and touch-friendly image mask drawing tool built with Next
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mask-drawer.git
+git clone https://github.com/ismailazdad/easymask.git
 ```
 
 2. Install dependencies:
